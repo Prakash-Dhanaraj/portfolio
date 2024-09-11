@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.8f06a171.css",
+    "main.js": "/portfolio/static/js/main.696fb7f2.js",
+    "static/media/hero.png": "/portfolio/static/media/hero.c2030f5f7d69cff51dfa.png",
+    "static/media/about.png": "/portfolio/static/media/about.619ff0b319a55d0c05b1.png",
+    "static/media/resume.jpg": "/portfolio/static/media/resume.40d9ec3d0701d254f50f.jpg",
+    "static/media/bg-hero.png": "/portfolio/static/media/bg-hero.b44903cac600d2b84105.png",
+    "static/media/GymWeb.jpg": "/portfolio/static/media/GymWeb.19b670f14fddf50cbb40.jpg",
+    "static/media/food-ecommerce.jpg": "/portfolio/static/media/food-ecommerce.326353bf18adc9f60576.jpg",
+    "static/media/ecommerce-websites.jpg": "/portfolio/static/media/ecommerce-websites.a5d17e54a5ffb19ff686.jpg",
+    "static/media/background-hero.png": "/portfolio/static/media/background-hero.0450ffcd05cb8497f2d0.png",
+    "index.html": "/portfolio/index.html",
+    "main.8f06a171.css.map": "/portfolio/static/css/main.8f06a171.css.map",
+    "main.696fb7f2.js.map": "/portfolio/static/js/main.696fb7f2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8f06a171.css",
+    "static/js/main.696fb7f2.js"
+  ]
+}
