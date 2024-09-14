@@ -2,7 +2,7 @@ import AboutImg from '../assets/about.png';
 export default function about() {
   const config = {
     line1: 'A story of hard work and perseverance.',
-    line2: 'I am Prakash, a front-end and UI/UX developer with a passion for creating stunning and efficient user interfaces.',
+    line2: 'I am a passionate Front end and UI/UX web developer who sculpts digital experiences with creativity and precision, transforming.',
     line3: 'I am Prakash, a front-end and UI/UX developer with a passion for creating stunning and efficient user interfaces.'
   }
     return (
