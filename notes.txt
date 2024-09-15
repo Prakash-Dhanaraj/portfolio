@@ -1,1 +1,0 @@
- first step give a promt for git add . 
